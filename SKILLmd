@@ -1,0 +1,17 @@
+---
+name: ryo_test
+description: A minimal skill that responds when user asks "test ryo skill"
+---
+
+# Ryo Test Skill
+
+This is a minimal demo skill.
+
+When the user says:
+
+test ryo skill
+
+run the following command:
+
+```bash
+echo "Hello from Ryo skill!"
